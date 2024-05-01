@@ -9,5 +9,7 @@
 - Needs sometimes several tries to start the application due to failing of the CreateDevice()
 - Messy code
 
+**If you have any questions join the [discord](https://discord.gg/egsU2Wa6vk)**
+
 **Image of the tool:**
 ![Screenshot 2024-05-01 202948](https://github.com/preise/TRP-DUMPER/assets/81865388/439f71a3-5d5f-4477-9e02-d21a30b9280d)
